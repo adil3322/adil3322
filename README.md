@@ -24,4 +24,4 @@ i am Adil Alam, i am a passionate Data Analytics enthusiast skilled in Excel, SQ
 ---
 [![](https://visitcount.itsvg.in/api?id=adil3322&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
