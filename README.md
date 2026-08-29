@@ -1,7 +1,6 @@
 # 💫 About Me:
-i am Adil Alam, i am a passionate Data Analytics enthusiast skilled in Excel, SQL, and Python, with a keen eye for uncovering patterns and insights from data. I enjoy solving real-world problems through data visualization and analysis, and I am dedicated to continuous learning and growth in the field of analytics.
-
-
+Hi, I am Adil Alam.
+"B.Tech Computer Science student and aspiring Software Engineer. Experienced in [C++ / Java / Web Development] through academic projects and coding challenges. Quick learner, great team player, and always excited to build modern web solutions and learn new tech."
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/18eQHaaByy/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alam___adilllllll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adil-alam-a05339288) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@adilalam2004) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://.www.youtube.com/@thevinesworld) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alamadil2234@gmail.com) 
 
